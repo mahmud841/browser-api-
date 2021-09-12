@@ -15,3 +15,8 @@ prompt('name');
 
 // sessionStorage vs localStorage
 // cookies vs sessionStorage vs localStorage jante hobe motamuti 
+
+/*********************************************************************** 
+                         HappY Coding
+                         Mahmud Khan 
+************************************************************************/
