@@ -2,7 +2,7 @@ console.log("I am here ");
 //alert('Mother Bangali coming ');// ata console log korle modal er moto dekhabe 
 
 const motherComing = () => {
-    alert('ammu is coimg');
+    alert('Ammu is coimg.Ready for reading...');
 }
 
 /* const askPicnic = () =>{
@@ -20,6 +20,16 @@ const askPicnic = () =>{
     }
 }
 
+/* const askPicnic = () => {
+    const response = confirm('ready to go');
+    console.log(response);
+    if(response ===true){
+        alert('taka de')
+    }else{
+        console.log('no');
+    }
+}
+ */
 const askName = () => {
    const name = prompt('What is your name?');
    if (name){
